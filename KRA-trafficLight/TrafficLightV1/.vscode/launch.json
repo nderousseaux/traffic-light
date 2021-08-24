@@ -1,0 +1,11 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TrafficManager",
+			"request": "launch",
+			"mainClass": "trafficlight.TrafficManager",
+			"projectName": "TrafficLightV1_37ee408a"
+		}
+	]
+}
